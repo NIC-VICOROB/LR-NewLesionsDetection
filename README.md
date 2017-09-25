@@ -238,5 +238,5 @@ TestingTable = table(T1_Basal,T2_Basal,PD_Basal,FLAIR_Basal,...
 
 <a name="ref1">[[1](#deref1)]</a> M. Cabezas, A. Oliver, E. Roura, J. Freixenet, J.C Vilanova, Ll. Ramió-Torrentà, A. Rovira, X. Lladó. [_Automatic multiple sclerosis lesion detection in brain MRI by FLAIR thresholding_](https://doi.org/10.1016/j.cmpb.2014.04.006). __Computer Methods and Programs in Biomedicine__, 115(3), pp. 147-161. 2014
 
-<a name="ref2">[[2](#deref2)]</a> M. Salem, M. Cabezasa, S. Valverdea, D. Paretoc, A. Rovira, J. Salvia, A. Olivera, X. Lladó. [_Automatic Detection of New T2 Lesions in Multiple Sclerosis Using Supervised Learning and Deformation Fields_]. __under revision__, 2017.
+<a name="ref2">[[2](#deref2)]</a> M. Salem, M. Cabezasa, S. Valverdea, D. Paretoc, A. Rovira, J. Salvia, A. Olivera, X. Lladó. [_A supervised framework with intensity subtraction and deformation field features for the detection of new T2-w lesions in multiple sclerosis_]. __under revision__, 2017.
 
